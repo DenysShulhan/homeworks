@@ -56,7 +56,12 @@ td:last-child{
     margin-left: 8px;
 }
 
-
+.img_size_more{
+    width: 16px;
+    height: 16px;
+    float: right;
+    opacity: 0.3;
+}
 
 .img_size_more1{
     width: 16px;
